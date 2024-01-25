@@ -37,12 +37,12 @@ export const Project2: React.FC<Props> = ( { name, link1 } ) => {
                 </li>
             </ul>
             <small><p className='center--text'>tech:  lua</p></small>
-            {/* <div className='icon--container'>
+            <div className='icon--container'>
             
             <Icon className='icon' icon="uit:github-alt" height="22" 
                 onClick={(e: React.MouseEvent<Element, MouseEvent>) => {
                     click1(e, link1, 'clicked git')}} />
-            </div> */}
+            </div>
         </div>
     )
 }

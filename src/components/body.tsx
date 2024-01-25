@@ -11,7 +11,7 @@ export const Body: React.FC = () => {
             </div>
 
             <div className='project--divs'>
-                <Project2 link1='https://github1s.com/spumdonut/weight-lifting-simulator' name='weight sim'/>
+                <Project2 link1='https://github.com/smellycyborg/wall-run-handle/blob/main/wallRunHandler.lua' name='slash shot'/>
             </div>
         </div>
     )
