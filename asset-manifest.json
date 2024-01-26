@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/chavez-pettit/static/css/main.7e51c4bb.css",
+    "main.js": "/chavez-pettit/static/js/main.7e3865c5.js",
+    "reactPlayerYouTube.js": "/chavez-pettit/static/js/reactPlayerYouTube.a8aa1d19.chunk.js",
+    "reactPlayerSoundCloud.js": "/chavez-pettit/static/js/reactPlayerSoundCloud.eaebd1aa.chunk.js",
+    "reactPlayerVimeo.js": "/chavez-pettit/static/js/reactPlayerVimeo.0338530d.chunk.js",
+    "reactPlayerFacebook.js": "/chavez-pettit/static/js/reactPlayerFacebook.c884209c.chunk.js",
+    "reactPlayerStreamable.js": "/chavez-pettit/static/js/reactPlayerStreamable.805f1968.chunk.js",
+    "reactPlayerWistia.js": "/chavez-pettit/static/js/reactPlayerWistia.49d4e6b4.chunk.js",
+    "reactPlayerTwitch.js": "/chavez-pettit/static/js/reactPlayerTwitch.696cbdce.chunk.js",
+    "reactPlayerDailyMotion.js": "/chavez-pettit/static/js/reactPlayerDailyMotion.ced15381.chunk.js",
+    "reactPlayerMixcloud.js": "/chavez-pettit/static/js/reactPlayerMixcloud.330bfc41.chunk.js",
+    "reactPlayerVidyard.js": "/chavez-pettit/static/js/reactPlayerVidyard.d1f35e75.chunk.js",
+    "reactPlayerKaltura.js": "/chavez-pettit/static/js/reactPlayerKaltura.b51880f1.chunk.js",
+    "reactPlayerFilePlayer.js": "/chavez-pettit/static/js/reactPlayerFilePlayer.b2ac5df2.chunk.js",
+    "reactPlayerPreview.js": "/chavez-pettit/static/js/reactPlayerPreview.8f35423b.chunk.js",
+    "static/js/787.7584236b.chunk.js": "/chavez-pettit/static/js/787.7584236b.chunk.js",
+    "index.html": "/chavez-pettit/index.html",
+    "main.7e51c4bb.css.map": "/chavez-pettit/static/css/main.7e51c4bb.css.map",
+    "main.7e3865c5.js.map": "/chavez-pettit/static/js/main.7e3865c5.js.map",
+    "reactPlayerYouTube.a8aa1d19.chunk.js.map": "/chavez-pettit/static/js/reactPlayerYouTube.a8aa1d19.chunk.js.map",
+    "reactPlayerSoundCloud.eaebd1aa.chunk.js.map": "/chavez-pettit/static/js/reactPlayerSoundCloud.eaebd1aa.chunk.js.map",
+    "reactPlayerVimeo.0338530d.chunk.js.map": "/chavez-pettit/static/js/reactPlayerVimeo.0338530d.chunk.js.map",
+    "reactPlayerFacebook.c884209c.chunk.js.map": "/chavez-pettit/static/js/reactPlayerFacebook.c884209c.chunk.js.map",
+    "reactPlayerStreamable.805f1968.chunk.js.map": "/chavez-pettit/static/js/reactPlayerStreamable.805f1968.chunk.js.map",
+    "reactPlayerWistia.49d4e6b4.chunk.js.map": "/chavez-pettit/static/js/reactPlayerWistia.49d4e6b4.chunk.js.map",
+    "reactPlayerTwitch.696cbdce.chunk.js.map": "/chavez-pettit/static/js/reactPlayerTwitch.696cbdce.chunk.js.map",
+    "reactPlayerDailyMotion.ced15381.chunk.js.map": "/chavez-pettit/static/js/reactPlayerDailyMotion.ced15381.chunk.js.map",
+    "reactPlayerMixcloud.330bfc41.chunk.js.map": "/chavez-pettit/static/js/reactPlayerMixcloud.330bfc41.chunk.js.map",
+    "reactPlayerVidyard.d1f35e75.chunk.js.map": "/chavez-pettit/static/js/reactPlayerVidyard.d1f35e75.chunk.js.map",
+    "reactPlayerKaltura.b51880f1.chunk.js.map": "/chavez-pettit/static/js/reactPlayerKaltura.b51880f1.chunk.js.map",
+    "reactPlayerFilePlayer.b2ac5df2.chunk.js.map": "/chavez-pettit/static/js/reactPlayerFilePlayer.b2ac5df2.chunk.js.map",
+    "reactPlayerPreview.8f35423b.chunk.js.map": "/chavez-pettit/static/js/reactPlayerPreview.8f35423b.chunk.js.map",
+    "787.7584236b.chunk.js.map": "/chavez-pettit/static/js/787.7584236b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e51c4bb.css",
+    "static/js/main.7e3865c5.js"
+  ]
+}
