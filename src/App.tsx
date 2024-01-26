@@ -16,8 +16,8 @@ const App: React.FC = () => {
   </div>
 
   <div>
-    <Footer link1='https://github.com/spumdonut' 
-    link2='https://www.linkedin.com/in/spumdonut/' />
+    <Footer link1='https://github.com/smellycyborg' 
+    link2='https://www.linkedin.com/in/smellycyborg/' />
   </div>
   </>
 }
