@@ -8,7 +8,7 @@ const App: React.FC = () => {
 
   return <>
   <div>
-    <Header name='chavez.tech' bio='programmer'/>
+    <Header name='chavez pettit' bio='programmer'/>
   </div>
 
   <div>
