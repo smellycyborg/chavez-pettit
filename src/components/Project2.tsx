@@ -36,7 +36,7 @@ export const Project2: React.FC<Props> = ( { name, link1 } ) => {
                     players can run on walls and dash.
                 </li>
             </ul>
-            <small><p className='center--text'>tech:  lua</p></small>
+            <small><p className='center--text'>tech:  lua, rojo, vs code, git, github, figma, bing image generator</p></small>
             <div className='icon--container'>
             
             <Icon className='icon' icon="uit:github-alt" height="22" 
