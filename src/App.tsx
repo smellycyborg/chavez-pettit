@@ -3,6 +3,7 @@ import './App.css';
 import { Header } from './components/Header'
 import { Body } from './components/body'
 import { Footer } from './components/Footer'
+import { Experience } from './components/Experience'
 
 const App: React.FC = () => {
 
@@ -13,11 +14,13 @@ const App: React.FC = () => {
 
   <div>
     <Body />
+    <Experience />
   </div>
 
   <div>
     <Footer link1='https://github.com/smellycyborg' 
-    link2='https://www.linkedin.com/in/smellycyborg/' />
+    link2='https://www.linkedin.com/in/smellycyborg/'
+    link3='chavezworkmail@gmail.com' />
   </div>
   </>
 }

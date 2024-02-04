@@ -5,6 +5,7 @@ import '../App.css';
 interface Props {
     link1: string,
     link2: string,
+    link3: string,
 }
 
 const click1 = (
@@ -25,7 +26,17 @@ const click2 = (
     console.log(text)
 }
 
-export const Footer: React.FC<Props> = ( { link1, link2 } ) => {
+const click3 = (
+    event: React.MouseEvent<Element, MouseEvent>, 
+    link: string, 
+    text: string
+    ) => {
+    const emailAddress = 'example@example.com';
+    window.location.href = `mailto:${emailAddress}`
+    console.log(text)
+}
+
+export const Footer: React.FC<Props> = ( { link1, link2, link3 } ) => {
 
     return (
         <footer>
@@ -39,6 +50,11 @@ export const Footer: React.FC<Props> = ( { link1, link2 } ) => {
                 icon="ph:linkedin-logo-thin" height="42" 
                 onClick={(e: React.MouseEvent<Element, MouseEvent>) => {
                     click2(e, link2, 'clicked linkedin')
+                }}/>
+                <Icon className='icon' 
+                icon="ic:baseline-email" height="42" 
+                onClick={(e: React.MouseEvent<Element, MouseEvent>) => {
+                    click3(e, link3, 'clicked email')
                 }}/>
             </div>
             <p>site by chavez</p>

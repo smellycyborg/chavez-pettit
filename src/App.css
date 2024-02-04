@@ -11,7 +11,7 @@ h5 {
 footer {
     text-align: center;
     font-size: x-small;
-    height: 15vh;
+    height: 20vh;
     display: flex;
     align-items: center;
     justify-content: end;
@@ -56,8 +56,32 @@ footer {
     margin: auto;
 }
 
+.experience--container {
+    width: 80vw;
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+
+.experience--title {
+    width: auto;
+    text-align: center;
+    align-items: center;
+}
+
+.experience--divs {
+    width: auto;
+}
+
 @media (max-width: 800px) {
     .body--container {
+        height: auto;
+        flex-direction: column;
+    }
+
+    .experience--container {
         height: auto;
         flex-direction: column;
     }
