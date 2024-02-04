@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/chavez-pettit/static/css/main.7e51c4bb.css",
-    "main.js": "/chavez-pettit/static/js/main.08249384.js",
+    "main.css": "/chavez-pettit/static/css/main.038093fe.css",
+    "main.js": "/chavez-pettit/static/js/main.22202409.js",
     "reactPlayerYouTube.js": "/chavez-pettit/static/js/reactPlayerYouTube.a8aa1d19.chunk.js",
     "reactPlayerSoundCloud.js": "/chavez-pettit/static/js/reactPlayerSoundCloud.eaebd1aa.chunk.js",
     "reactPlayerVimeo.js": "/chavez-pettit/static/js/reactPlayerVimeo.0338530d.chunk.js",
@@ -16,9 +16,12 @@
     "reactPlayerFilePlayer.js": "/chavez-pettit/static/js/reactPlayerFilePlayer.b2ac5df2.chunk.js",
     "reactPlayerPreview.js": "/chavez-pettit/static/js/reactPlayerPreview.8f35423b.chunk.js",
     "static/js/787.7584236b.chunk.js": "/chavez-pettit/static/js/787.7584236b.chunk.js",
+    "static/media/unicorncreakLogo.png": "/chavez-pettit/static/media/unicorncreakLogo.81b1896921849ecfb0e7.png",
+    "static/media/gamefamLogo.jpg": "/chavez-pettit/static/media/gamefamLogo.652dcf4ef1d7b382bf64.jpg",
+    "static/media/dubitLogo.jpg": "/chavez-pettit/static/media/dubitLogo.0a955423833995afacec.jpg",
     "index.html": "/chavez-pettit/index.html",
-    "main.7e51c4bb.css.map": "/chavez-pettit/static/css/main.7e51c4bb.css.map",
-    "main.08249384.js.map": "/chavez-pettit/static/js/main.08249384.js.map",
+    "main.038093fe.css.map": "/chavez-pettit/static/css/main.038093fe.css.map",
+    "main.22202409.js.map": "/chavez-pettit/static/js/main.22202409.js.map",
     "reactPlayerYouTube.a8aa1d19.chunk.js.map": "/chavez-pettit/static/js/reactPlayerYouTube.a8aa1d19.chunk.js.map",
     "reactPlayerSoundCloud.eaebd1aa.chunk.js.map": "/chavez-pettit/static/js/reactPlayerSoundCloud.eaebd1aa.chunk.js.map",
     "reactPlayerVimeo.0338530d.chunk.js.map": "/chavez-pettit/static/js/reactPlayerVimeo.0338530d.chunk.js.map",
@@ -35,7 +38,7 @@
     "787.7584236b.chunk.js.map": "/chavez-pettit/static/js/787.7584236b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e51c4bb.css",
-    "static/js/main.08249384.js"
+    "static/css/main.038093fe.css",
+    "static/js/main.22202409.js"
   ]
 }
